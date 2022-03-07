@@ -5,6 +5,7 @@
 
 ---
 1 - :construction: [Instalação do Compilador e Primeiro Código em TS](./01-FirstCode/)
+
 2 - :hammer: [Criando e Configurando TSconfig](./01-FirstCode/)
 
 ---

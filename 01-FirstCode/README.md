@@ -14,7 +14,7 @@ Para instalar o compilador, devido ser um superset do JavaScript, ele é compila
 Iremos utilizar um exemplo em um cenário que o TypeScript é extremamente eficaz.
 
 ### Cenário:
-O código em .js esta mostrando no console.log, a soma de dois paramêtros e retorna seus valores, após o botão ser clicado e executar a função sum
+O código em .js ("js-example.js") esta mostrando no console.log, a soma de dois paramêtros e retorna seus valores, após o botão ser clicado e executar a função sum
 
 ```js
 function sum(a, b){

@@ -1,6 +1,6 @@
-# Criando e configurando TSconfig
+# :wrench: Criando e configurando TSconfig
 ---
-## Iniciando o TS Config
+## :zap: Iniciando o TS Config
 
 Iremos agora utilizar o TsConfig, porque no caso no primeira aula, somente era necessário  compilar um arquivo
 
@@ -16,9 +16,9 @@ tsconfig.json é o arquivo onde define todas essas configurações
 
 Ele possuí varias opções que você pode habilitar no seu TypeScript
 
-- "Target" - Desde de compatibilidade com browsers definindo qual ECMA vai ser utilizado
-- "Module" - A montagem dos módulos do Projeto
-- "OutDir" - Diretório aonde vai ser compilado
+- :small_blue_diamond: "Target" - Desde de compatibilidade com browsers definindo qual ECMA vai ser utilizado
+- :small_blue_diamond: "Module" - A montagem dos módulos do Projeto
+- :small_blue_diamond: "OutDir" - Diretório aonde vai ser compilado
 
 A próprio json deixa todos comentários de cada comando para voce verificar o que a opção/regra afeta no projeto
 
@@ -31,5 +31,5 @@ No código para definir que temos certeza que temos o botão, então podemos col
 const button = document.getElementById("button")!;
 ```
 
-Após isso é compilado normalmente o projeto
+Após isso é compilado normalmente o projeto :sparkles:
 

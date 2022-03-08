@@ -8,6 +8,8 @@
 
 2 - :hammer: [Criando e Configurando TSconfig](./02-TsConfig/)
 
+3 - :memo: [Types - Tipos básicos do Typescript](./03-Types/)
+
 ---
 
 :bookmark: [Playlist do Mini-Curso](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_)
